@@ -209,6 +209,31 @@ npm run dev
 * Multi-language Support
 
 ---
+---
+
+# 🎬 Project Demo
+
+Explore the key features of **OrderIt** through the demo videos below.
+
+| Demo                                          | Description                                                                                            | Link            |
+| --------------------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------- |
+| 🎥 **Part 1 – Introduction & Core Features**  | Project overview, authentication, restaurant browsing, search functionality, menus, and responsive UI. 
+
+
+| 🎥 **Part 2 – Ordering & Payments**           | Cart management, order placement, Stripe payment integration, and order history.                       | **Coming Soon** |
+| 🎥 **Part 3 – AI Features & User Management** | AI review analysis, profile management, password reset, and additional functionalities.                | **Coming Soon** |
+
+> **Note:** The demo links will be updated after the videos are published on LinkedIn or YouTube.
+
+---
+
+## 🌐 Live Preview
+
+🚧 **Deployment in Progress**
+
+The live application will be available soon.
+
+---
 
 # 👨‍💻 Developer
 
@@ -224,7 +249,7 @@ npm run dev
 
 <div align="center">
 
-### ⭐ If you like this project, don't forget to star the repository!
+
 
 **Thank you for visiting! Happy Coding! 🚀**
 
