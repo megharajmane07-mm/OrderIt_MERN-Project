@@ -447,11 +447,11 @@ During this project, I gained hands-on experience in:
 
 ### GitHub
 
-https://github.com/your-github-username
+https://github.com/megharajmane07-mm 
 
 ### LinkedIn
 
-https://linkedin.com/in/your-linkedin-profile
+linkedin.com/in/megharajmane
 
 ---
 
