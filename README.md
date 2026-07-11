@@ -106,13 +106,13 @@ This project demonstrates real-world implementation of:
 
 ✅ Stripe Payment Gateway Integration
 
-✅ AI-powered Dish Description Generator using Grok AI
+✅ AI-powered Dish Description Generator 
 
 ✅ MongoDB Database Integration
 
 ✅ Secure Backend APIs
 
-✅ API Testing using Postman
+✅ API Testing 
 
 ✅ Responsive User Interface
 
@@ -146,24 +146,13 @@ This project demonstrates real-world implementation of:
 - JWT Authentication
 - bcrypt Password Hashing
 
-### Payment
-
-- Stripe API
-
-### Artificial Intelligence
-
-- Grok AI API
-
-### API Testing
-
-- Postman
 
 ### Version Control
 
 - Git
 - GitHub
 
----
+
 
 # 🏗️ System Architecture
 
