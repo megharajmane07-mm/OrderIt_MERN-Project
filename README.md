@@ -298,33 +298,10 @@ https://github.com/megharajmane07-mm/OrderIt_MERN-Project.git
 cd OrderIt_MERN_Project
 ```
 
-## Install Client Dependencies
+## Install all the Dependencies
 
-```bash
-cd client
-npm install
-```
+## Start Backend and frontend
 
-## Install Server Dependencies
-
-```bash
-cd ../server
-npm install
-```
-
-## Start Backend
-
-```bash
-npm start
-```
-
-## Start Frontend
-
-```bash
-npm run dev
-```
-
----
 
 # 🎥 Live Demo
 
